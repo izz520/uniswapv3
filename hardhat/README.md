@@ -1,0 +1,5 @@
+Factory address: 0xe6Aff3E9f164e2f9C5a23Defa966fA63221c1618
+Router address: 0x0b9b60cC7E84F3603fe9A2B745608EAa3806314F
+PositionDescriptor address: 0xbeeDa4f720d625fba24b7a48f3101457B6b7d7Bc
+NonfungiblePositionManager address: 0x7AbBA4EEA4fF1dC651b0e05d3451834F772b31AC
+WETH9 address:0xfFf9976782d46CC05630D1f6eBAb18b2324d6B14
